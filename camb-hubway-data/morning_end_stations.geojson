@@ -1,0 +1,187 @@
+{"type": "FeatureCollection", "features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.129, 42.364]}, "properties": {"Station": "175 N Harvard St", "# of trips": 2773}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.104, 42.371]}, "properties": {"Station": "359 Broadway - Broadway at Fayette Street", "# of trips": 5226}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.031, 42.375]}, "properties": {"Station": "Airport T Stop - Bremen St at Brooks St", "# of trips": 2}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.143, 42.396]}, "properties": {"Station": "Alewife MBTA at Steel Place", "# of trips": 898}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.139, 42.396]}, "properties": {"Station": "Alewife Station at Russell Field", "# of trips": 4080}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.134, 42.349]}, "properties": {"Station": "Allston Green District - Griggs St at Commonwealth Ave", "# of trips": 194}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.088, 42.362]}, "properties": {"Station": "Ames St at Main St", "# of trips": 39616}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.057, 42.331]}, "properties": {"Station": "Andrew T Stop - Dorchester Ave at Dexter St", "# of trips": 25}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.052, 42.36]}, "properties": {"Station": "Aquarium T Stop - 200 Atlantic Ave", "# of trips": 813}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.058, 42.355]}, "properties": {"Station": "Arch St at Franklin St", "# of trips": 2159}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.108, 42.35]}, "properties": {"Station": "B.U. Central - 725 Comm. Ave.", "# of trips": 3535}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.077, 42.348]}, "properties": {"Station": "Back Bay T Stop - Dartmouth St at Stuart St", "# of trips": 2259}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.073, 42.356]}, "properties": {"Station": "Beacon St at Arlington St", "# of trips": 2993}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.09, 42.351]}, "properties": {"Station": "Beacon St at Massachusetts Ave", "# of trips": 5369}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.106, 42.378]}, "properties": {"Station": "Beacon St at Washington / Kirkland", "# of trips": 2296}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.016, 42.383]}, "properties": {"Station": "Bennington St at Byron St", "# of trips": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.086, 42.366]}, "properties": {"Station": "Binney St / Sixth St", "# of trips": 15475}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.058, 42.359]}, "properties": {"Station": "Boston City Hall - 28 State St", "# of trips": 3831}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.044, 42.347]}, "properties": {"Station": "Boston Convention and Exhibition Center - Summer St at West Side Dr", "# of trips": 265}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.073, 42.336]}, "properties": {"Station": "Boston Medical Center - E Concord St at Harrison Ave", "# of trips": 1581}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.071, 42.352]}, "properties": {"Station": "Boylston St at Arlington St", "# of trips": 3194}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.074, 42.351]}, "properties": {"Station": "Boylston St at Berkeley St", "# of trips": 1993}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.077, 42.35]}, "properties": {"Station": "Boylston St at Dartmouth St", "# of trips": 1164}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.082, 42.349]}, "properties": {"Station": "Boylston St at Fairfield St", "# of trips": 3495}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.088, 42.347]}, "properties": {"Station": "Boylston St at Massachusetts Ave", "# of trips": 3281}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.063, 42.352]}, "properties": {"Station": "Boylston St at Washington St", "# of trips": 2022}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.072, 42.372]}, "properties": {"Station": "Brian P. Murphy Staircase at Child Street", "# of trips": 504}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.105, 42.334]}, "properties": {"Station": "Brigham Circle - Francis St at Huntington Ave", "# of trips": 975}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.15, 42.349]}, "properties": {"Station": "Brighton Center - Washington St at Cambridge St", "# of trips": 58}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.138, 42.362]}, "properties": {"Station": "Brighton Mills - 370 Western Ave", "# of trips": 961}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.078, 42.386]}, "properties": {"Station": "Broadway St at Mt Pleasant St", "# of trips": 117}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.117, 42.333]}, "properties": {"Station": "Brookline Village - Station Street @ MBTA", "# of trips": 209}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.069, 42.374]}, "properties": {"Station": "Bunker Hill Community College", "# of trips": 266}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.101, 42.346]}, "properties": {"Station": "Burlington Ave at Brookline Ave", "# of trips": 668}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.098, 42.371]}, "properties": {"Station": "Cambridge Dept. of Public Works -147 Hampshire St.", "# of trips": 514}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.111, 42.373]}, "properties": {"Station": "Cambridge Main Library at Broadway / Trowbridge St", "# of trips": 10301}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.094, 42.373]}, "properties": {"Station": "Cambridge St - at Columbia St / Webster Ave", "# of trips": 7910}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.065, 42.361]}, "properties": {"Station": "Cambridge St at Joy St", "# of trips": 5330}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.076, 42.367]}, "properties": {"Station": "CambridgeSide Galleria - CambridgeSide PL at Land Blvd", "# of trips": 21461}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.105, 42.366]}, "properties": {"Station": "Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St", "# of trips": 19434}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.038, 42.374]}, "properties": {"Station": "Central Square - East Boston", "# of trips": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.103, 42.365]}, "properties": {"Station": "Central Square at Mass Ave / Essex St", "# of trips": 25130}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.071, 42.361]}, "properties": {"Station": "Charles Circle - Charles St at Cambridge St", "# of trips": 6480}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.07, 42.356]}, "properties": {"Station": "Charles st and Beacon St", "# of trips": 1335}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.027, 42.38]}, "properties": {"Station": "Chelsea St at Saratoga St", "# of trips": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.059, 42.351]}, "properties": {"Station": "Chinatown Gate Plaza", "# of trips": 1031}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.086, 42.344]}, "properties": {"Station": "Christian Science Plaza - Massachusetts Ave at Westland Ave", "# of trips": 2603}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.109, 42.391]}, "properties": {"Station": "Clarendon Hill at Broadway", "# of trips": 261}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.101, 42.34]}, "properties": {"Station": "Colleges of the Fenway - Fenway at Avenue Louis Pasteur", "# of trips": 1674}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.082, 42.341]}, "properties": {"Station": "Columbus Ave at Massachusetts Ave", "# of trips": 449}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.121, 42.352]}, "properties": {"Station": "Commonwealth Ave At Babcock St", "# of trips": 49}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.116, 42.351]}, "properties": {"Station": "Commonwealth Ave at Buick St", "# of trips": 3619}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.057, 42.361]}, "properties": {"Station": "Congress St at North St", "# of trips": 2060}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.038, 42.348]}, "properties": {"Station": "Congress St at Northern Ave", "# of trips": 67}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.05, 42.351]}, "properties": {"Station": "Congress St at Sleeper St", "# of trips": 1108}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.108, 42.383]}, "properties": {"Station": "Conway Park - Somerville Avenue", "# of trips": 1673}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.123, 42.342]}, "properties": {"Station": "Coolidge Corner - Beacon St @ Centre St", "# of trips": 727}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.077, 42.35]}, "properties": {"Station": "Copley Square - Dartmouth St at Boylston St", "# of trips": 5179}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.056, 42.363]}, "properties": {"Station": "Cross St at Hanover St", "# of trips": 968}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.115, 42.309]}, "properties": {"Station": "Curtis Hall - South St at Centre St", "# of trips": 53}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.108, 42.362]}, "properties": {"Station": "Dana Park", "# of trips": 2545}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.133, 42.389]}, "properties": {"Station": "Danehy Park", "# of trips": 3065}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.123, 42.397]}, "properties": {"Station": "Davis Square", "# of trips": 9912}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.057, 42.344]}, "properties": {"Station": "Dorchester Ave at Gillette Park", "# of trips": 75}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.084, 42.329]}, "properties": {"Station": "Dudley Square - Dudley St at Warren St", "# of trips": 67}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.075, 42.325]}, "properties": {"Station": "Dudley Town Common - Mt Pleasant Ave at Blue Hill Ave", "# of trips": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.062, 42.321]}, "properties": {"Station": "E Cottage St at Columbia Rd", "# of trips": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.07, 42.37]}, "properties": {"Station": "EF - North Point Park", "# of trips": 8957}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.039, 42.37]}, "properties": {"Station": "East Boston Neighborhood Health Center - 20 Maverick Square", "# of trips": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.069, 42.379]}, "properties": {"Station": "Edwards Playground - Main St at Eden St", "# of trips": 59}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.099, 42.316]}, "properties": {"Station": "Egleston Square - Atherton St at Washington St", "# of trips": 16}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.044, 42.353]}, "properties": {"Station": "Fan Pier", "# of trips": 430}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.15, 42.355]}, "properties": {"Station": "Faneuil St at Market St", "# of trips": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.092, 42.31]}, "properties": {"Station": "Franklin Park - Seaver St at Humbolt Ave", "# of trips": 18}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.085, 42.303]}, "properties": {"Station": "Franklin Park Zoo - Franklin Park Rd at Blue Hill Ave", "# of trips": 2}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.143, 42.383]}, "properties": {"Station": "Fresh Pond Reservation", "# of trips": 262}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.03, 42.382]}, "properties": {"Station": "Glendon St at Condor St", "# of trips": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.107, 42.311]}, "properties": {"Station": "Green Street T Stop - Green St at Amory St", "# of trips": 17}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.103, 42.337]}, "properties": {"Station": "HMS/HSPH - Avenue Louis Pasteur at Longwood Ave", "# of trips": 4409}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.121, 42.371]}, "properties": {"Station": "Harvard Kennedy School at Bennett St / Eliot St", "# of trips": 21493}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.12, 42.379]}, "properties": {"Station": "Harvard Law School at Mass Ave / Jarvis St", "# of trips": 10105}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.121, 42.373]}, "properties": {"Station": "Harvard Square at Brattle St / Eliot St", "# of trips": 19981}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.119, 42.373]}, "properties": {"Station": "Harvard Square at Mass Ave/ Dunster", "# of trips": 35559}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.117, 42.378]}, "properties": {"Station": "Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St", "# of trips": 18409}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.114, 42.376]}, "properties": {"Station": "Harvard University Gund Hall at Quincy St / Kirkland S", "# of trips": 16924}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.114, 42.367]}, "properties": {"Station": "Harvard University Housing - 115 Putnam Ave at Peabody Terrace", "# of trips": 6021}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.125, 42.38]}, "properties": {"Station": "Harvard University Radcliffe Quadrangle at Shepard St / Garden St", "# of trips": 5855}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.117, 42.369]}, "properties": {"Station": "Harvard University River Houses at DeWolfe St / Cowperthwaite St", "# of trips": 8343}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.057, 42.377]}, "properties": {"Station": "Hayes Square - Vine St at Moulton St", "# of trips": 197}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.112, 42.321]}, "properties": {"Station": "Hyde Square - Barbara St at Centre St", "# of trips": 49}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.029, 42.345]}, "properties": {"Station": "ID Building East", "# of trips": 205}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.032, 42.345]}, "properties": {"Station": "ID Building West", "# of trips": 211}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.063, 42.346]}, "properties": {"Station": "Ink Block - Harrison Ave at Herald St", "# of trips": 117}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.101, 42.374]}, "properties": {"Station": "Inman Square at Vellucci Plaza / Hampshire St", "# of trips": 8271}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.125, 42.364]}, "properties": {"Station": "Innovation Lab - 125 Western Ave at Batten Way", "# of trips": 3938}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.128, 42.347]}, "properties": {"Station": "JFK Crossing at Harvard St. / Thorndike St.", "# of trips": 221}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.051, 42.32]}, "properties": {"Station": "JFK/UMass T Stop", "# of trips": 17}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.114, 42.313]}, "properties": {"Station": "JP Center", "# of trips": 17}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.1, 42.323]}, "properties": {"Station": "Jackson Square T Stop", "# of trips": 29}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.082, 42.364]}, "properties": {"Station": "Kendall Street", "# of trips": 13253}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.085, 42.362]}, "properties": {"Station": "Kendall T", "# of trips": 18027}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.097, 42.349]}, "properties": {"Station": "Kenmore Square", "# of trips": 4225}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.101, 42.363]}, "properties": {"Station": "Lafayette Square at Mass Ave / Main St / Columbia St", "# of trips": 21485}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.102, 42.344]}, "properties": {"Station": "Landmark Center - Brookline Ave at Park Dr", "# of trips": 1764}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.077, 42.371]}, "properties": {"Station": "Lechmere Station at Cambridge St / First St", "# of trips": 21342}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.119, 42.387]}, "properties": {"Station": "Lesley University", "# of trips": 1109}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.051, 42.364]}, "properties": {"Station": "Lewis Wharf at Atlantic Ave", "# of trips": 607}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.131, 42.398]}, "properties": {"Station": "Linear Park - Mass. Ave. at Cameron Ave. ", "# of trips": 3268}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.106, 42.339]}, "properties": {"Station": "Longwood Ave at Binney St", "# of trips": 4691}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.114, 42.357]}, "properties": {"Station": "Lower Cambridgeport at Magazine St/Riverside Rd", "# of trips": 9190}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.101, 42.36]}, "properties": {"Station": "MIT Pacific St at Purrington St", "# of trips": 7851}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.092, 42.362]}, "properties": {"Station": "MIT Stata Center at Vassar St / Main St", "# of trips": 77647}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.104, 42.356]}, "properties": {"Station": "MIT Vassar St", "# of trips": 7613}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.093, 42.358]}, "properties": {"Station": "MIT at Mass Ave / Amherst St", "# of trips": 58379}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.091, 42.321]}, "properties": {"Station": "MLK Blvd at Washington St", "# of trips": 2}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.108, 42.398]}, "properties": {"Station": "Magoun Square at Trum Field", "# of trips": 190}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.065, 42.376]}, "properties": {"Station": "Main St at Austin St", "# of trips": 642}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.133, 42.375]}, "properties": {"Station": "Mt Auburn", "# of trips": 1835}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.024, 42.336]}, "properties": {"Station": "Murphy Skating Rink - 1880 Day Blvd", "# of trips": 14}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.071, 42.368]}, "properties": {"Station": "Museum of Science", "# of trips": 930}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.092, 42.317]}, "properties": {"Station": "NCAAA - Walnut Ave at Crawford St", "# of trips": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.064, 42.366]}, "properties": {"Station": "Nashua Street at Red Auerbach Way", "# of trips": 943}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.148, 42.357]}, "properties": {"Station": "New Balance - 20 Guest St", "# of trips": 812}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.086, 42.349]}, "properties": {"Station": "Newbury St at Hereford St", "# of trips": 2157}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.066, 42.327]}, "properties": {"Station": "Newmarket Square T Stop - Massachusetts Ave at Newmarket Square", "# of trips": 38}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.09, 42.342]}, "properties": {"Station": "Northeastern University - North Parking Lot", "# of trips": 1317}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.166, 42.35]}, "properties": {"Station": "Oak Square - 615 Washington St", "# of trips": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.084, 42.363]}, "properties": {"Station": "One Broadway / Kendall Sq at Main St / 3rd St", "# of trips": 28282}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.092, 42.366]}, "properties": {"Station": "One Kendall Square at Hampshire St / Portland St", "# of trips": 32685}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.123, 42.404]}, "properties": {"Station": "Packard Ave / Powderhouse Blvd", "# of trips": 353}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.124, 42.352]}, "properties": {"Station": "Packard's Corner - Commonwealth Ave at Brighton Ave", "# of trips": 850}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.105, 42.347]}, "properties": {"Station": "Park Dr at Buswell St", "# of trips": 1564}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.036, 42.365]}, "properties": {"Station": "Piers Park", "# of trips": 2}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.119, 42.388]}, "properties": {"Station": "Porter Square Station", "# of trips": 10377}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.055, 42.357]}, "properties": {"Station": "Post Office Square - Pearl St at Milk St", "# of trips": 1942}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.117, 42.401]}, "properties": {"Station": "Powder House Circle - Nathan Tufts Park", "# of trips": 638}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.083, 42.346]}, "properties": {"Station": "Prudential Center - Belvedere St", "# of trips": 3702}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.053, 42.355]}, "properties": {"Station": "Purchase St at Pearl St", "# of trips": 298}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.129, 42.393]}, "properties": {"Station": "Rindge Avenue - O'Neill Library", "# of trips": 831}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.051, 42.357]}, "properties": {"Station": "Rowes Wharf at Atlantic Ave", "# of trips": 789}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.095, 42.331]}, "properties": {"Station": "Roxbury Crossing T Stop - Columbus Ave at Tremont St", "# of trips": 293}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.082, 42.318]}, "properties": {"Station": "Roxbury YMCA - Warren St at MLK Blvd", "# of trips": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.088, 42.336]}, "properties": {"Station": "Ruggles T Stop - Columbus Ave at Melnea Cass Blvd", "# of trips": 413}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.057, 42.318]}, "properties": {"Station": "Ryan Playground - Dorchester Ave at Harbor View St", "# of trips": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.111, 42.328]}, "properties": {"Station": "S Huntington Ave at Heath St", "# of trips": 35}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.054, 42.311]}, "properties": {"Station": "Savin Hill T Stop - S Sydney St at Bay St", "# of trips": 2}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.042, 42.349]}, "properties": {"Station": "Seaport Hotel - Congress St at Seaport Ln", "# of trips": 211}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.044, 42.351]}, "properties": {"Station": "Seaport Square - Seaport Blvd at Northern Ave", "# of trips": 526}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.104, 42.358]}, "properties": {"Station": "Sidney Research Campus/ Erie Street at Waverly", "# of trips": 2954}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.101, 42.349]}, "properties": {"Station": "Silber Way", "# of trips": 497}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.119, 42.365]}, "properties": {"Station": "Soldiers Field Park - 111 Western Ave", "# of trips": 4987}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.098, 42.387]}, "properties": {"Station": "Somerville City Hall", "# of trips": 319}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.039, 42.336]}, "properties": {"Station": "South Boston Library - 646 E Broadway", "# of trips": 21}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.077, 42.341]}, "properties": {"Station": "South End Library - Tremont St at W Newton St", "# of trips": 290}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.056, 42.352]}, "properties": {"Station": "South Station - 700 Atlantic Ave", "# of trips": 2165}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.049, 42.378]}, "properties": {"Station": "Spaulding Rehabilitation Hospital - Charlestown Navy Yard", "# of trips": 3342}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.053, 42.344]}, "properties": {"Station": "State Street at Channel Center", "# of trips": 169}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.066, 42.351]}, "properties": {"Station": "Stuart St at Charles St", "# of trips": 903}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.052, 42.358]}, "properties": {"Station": "Surface Rd at India St", "# of trips": 863}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.06, 42.366]}, "properties": {"Station": "TD Garden - Causeway at Portal Park #2", "# of trips": 874}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.065, 42.366]}, "properties": {"Station": "TD Garden - West End Park", "# of trips": 1052}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.127, 42.403]}, "properties": {"Station": "Teele Square at 239 Holland St", "# of trips": 248}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.044, 42.345]}, "properties": {"Station": "The Lawn on D", "# of trips": 20}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.083, 42.365]}, "properties": {"Station": "Third at Binney", "# of trips": 2920}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.07, 42.345]}, "properties": {"Station": "Tremont St at E Berkeley St", "# of trips": 577}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.063, 42.355]}, "properties": {"Station": "Tremont St at West St", "# of trips": 2782}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.137, 42.353]}, "properties": {"Station": "Union Square - Brighton Ave at Cambridge St", "# of trips": 600}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.095, 42.38]}, "properties": {"Station": "Union Square - Somerville", "# of trips": 2649}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.1, 42.363]}, "properties": {"Station": "University Park", "# of trips": 7777}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.041, 42.314]}, "properties": {"Station": "University of Massachusetts Boston - Integrated Sciences Complex", "# of trips": 19}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.064, 42.318]}, "properties": {"Station": "Upham's Corner", "# of trips": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.113, 42.373]}, "properties": {"Station": "Verizon Innovation Hub 10 Ware Street", "# of trips": 680}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.051, 42.339]}, "properties": {"Station": "W Broadway at D St", "# of trips": 15}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.046, 42.336]}, "properties": {"Station": "W Broadway at Dorchester St", "# of trips": 19}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.06, 42.372]}, "properties": {"Station": "Warren St at Chelsea St", "# of trips": 1834}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.135, 42.339]}, "properties": {"Station": "Washington Square at Washington St. / Beacon St.", "# of trips": 122}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.16, 42.349]}, "properties": {"Station": "Washington St at Brock St", "# of trips": 94}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.079, 42.335]}, "properties": {"Station": "Washington St at Lenox St", "# of trips": 231}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.081, 42.333]}, "properties": {"Station": "Washington St at Melnea Cass Blvd", "# of trips": 17}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.074, 42.338]}, "properties": {"Station": "Washington St at Rutland St", "# of trips": 590}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.069, 42.342]}, "properties": {"Station": "Washington St at Waltham St", "# of trips": 620}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.046, 42.352]}, "properties": {"Station": "Watermark Seaport - Boston Wharf Rd at Seaport Blvd", "# of trips": 166}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.096, 42.338]}, "properties": {"Station": "Wentworth Institute of Technology - Huntington Ave at Vancouver St", "# of trips": 458}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.113, 42.386]}, "properties": {"Station": "Wilson Square", "# of trips": 762}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.098, 42.345]}, "properties": {"Station": "Yawkey Way at Boylston St.", "# of trips": 1629}}
+]}
